@@ -9,6 +9,7 @@ DESCRIPTION:
         Uses opacity of DOM.
 
 USAGE:
+        
         // To start
         $('span.loadText').simploader();
 
